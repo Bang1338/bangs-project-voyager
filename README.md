@@ -30,6 +30,7 @@ Quick note: This is NOT FROM REAL Voyager 1 (or 2). It's from me.
 #### Text
 - 06/12/2022 `SW0gbm90IGtpZGRpbmc=` - Base64
 - 06/12/2022 `2d4bH6gYhhJCVFYojK2MHFozb9Et` - Base58
+- 06/12/2022 `D0[7@Df$V0Dfd+3@;]RdEW` - Base85
 
 ## What is Project Voyager
 - Project Voyager is a project which get the Bang1338's message and read it without publish it to Twitter or something. 
