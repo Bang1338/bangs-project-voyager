@@ -23,6 +23,7 @@ Quick note: This is NOT FROM REAL Voyager 1 (or 2). It's from me.
 
 ## What is Project Voyager
 - Project Voyager is a project which get the Bang1338's message and read it without publish it to Twitter or something. 
+- Most of the message are encoded. (Voyager 1 is different, it's send 1 and 0)
 - Some of them is encoded with some algo like Base64, A1Z26, Hex,...
 - Hardcoded message are encoded/hashed with MD5, SHA256.
 
