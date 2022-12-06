@@ -27,6 +27,9 @@ Quick note: This is NOT FROM REAL Voyager 1 (or 2). It's from me.
 #### Data/Ref
 - Not yet.
 
+#### Text
+- `SW0gbm90IGtpZGRpbmc=` - Base64
+
 ## What is Project Voyager
 - Project Voyager is a project which get the Bang1338's message and read it without publish it to Twitter or something. 
 - Most of the message are encoded. (Voyager 1 is different, it's send 1 and 0)
