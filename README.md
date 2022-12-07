@@ -41,6 +41,8 @@ Quick note: This is NOT FROM REAL Voyager 1 (or 2). It's from me.
 - 07/12/2022 `01110011 01101111 01101101 01100101 01101111 01101110 01100101 00100000 01100101 01101110 01100100 00100000 01101000 01101001 01110011 00100000 01101100 01101001 01100110 01100101` - Binary
 - 07/12/2022 `SWYgaGUgYWN0dWFsbHkgc3VpY2lkZSwgaXQncyBQeW9uYHMgZmF1bHQuCkltIHNvcnJ5IGZvciBtYWtlIGl0IGhhcmQgZm9yIHlvdSBndXksIGJ1dCBJIGhhdmUgdG8gZG8gdGhhdC4` - Base64
 - 07/12/2022 `c3ByZWFkIGl0Lg` - Base64
+- 07/12/2022 `SSB3b250IHN0b3Agc3ByZWFkaW5nIHRoaXMsIGl0YHMgYSBzZXJpb3VzIHByb2JsZW0gYWJvdXQgbWUu` - Base64
+- 07/12/2022 [Prepare](https://cdn.discordapp.com/attachments/954077931360124939/1050070394834530496/message.txt) - RSA Encrypt
 
 ## What is Project Voyager
 - Project Voyager is a project which get the Bang1338's message and read it without publish it to Twitter or something. 
