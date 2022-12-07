@@ -23,9 +23,10 @@ Quick note: This is NOT FROM REAL Voyager 1 (or 2). It's from me.
 - ~~[06/12/2022](https://cdn.discordapp.com/attachments/945841557226020888/1049557984847609888/bangs.voyager_base64.txt) - Base64 (Bang1338 called for help - Hoang Vu problem)~~ - Corrupted
 - ~~[06/12/2022 Updated](https://cdn.discordapp.com/attachments/945841557226020888/1049614641573150730/bangs.voyager_base64.txt) - Base64 (Bang1338 called for help - Hoang Vu problem)~~ - Corrupted
 - [06/12/2022 Updated 2](https://cdn.discordapp.com/attachments/954077931360124939/1049616536714887209/bangs.voyager_hex.txt) - Hex (Bang1338 called for help - Hoang Vu problem)
+- [07/12/2022](https://cdn.discordapp.com/attachments/1031628450928267397/1050062707468021830/bangs.voyager_binary.txt) - Binary (Su1c1d3)
 
 #### Data/Ref
-- Not yet.
+- [07/12/2022](https://cdn.discordapp.com/attachments/1031628450928267397/1050064416244244601/bangs.voyager_base64.txt) - Base64 Image
 
 #### Text
 - 06/12/2022 `SW0gbm90IGtpZGRpbmc=` - Base64
@@ -33,6 +34,11 @@ Quick note: This is NOT FROM REAL Voyager 1 (or 2). It's from me.
 - 06/12/2022 `D0[7@Df$V0Dfd+3@;]RdEW` - Base85
 - 06/12/2022 `e463380bb6da9f030a1812e4fd18cad4` - MD5
 - 07/12/2022 `aSBjYW50IGJlbGlldmUgd2h5IG5vIG9uZSBjYXJlIGFib3V0IG1l` - Base64
+- 07/12/2022 `bG90IG9mIHBlb3BsZSBrZWVwIGlnbm9yZSBtZSBhbmQgcmVwbGFjZSBieSBzb21lIHBvc3QgYW5kIHNvbWUgcGljdHVyZQ==` - Base64
+- 07/12/2022 `dW5hY2NlcHRhYmxl` - Base64
+- 07/12/2022 `d2h5IHRoaXMgYWx3YXkgaGFwcGVuZWQgdG8gbWU=` - Base64
+- 07/12/2022 `-. ---/--- -. ./-.- -. --- .-- --..--/.-. . .- .-.. .-.. -.-- .-.-.-` - Morse Code
+- 07/12/2022 `01110011 01101111 01101101 01100101 01101111 01101110 01100101 00100000 01100101 01101110 01100100 00100000 01101000 01101001 01110011 00100000 01101100 01101001 01100110 01100101` - Binary
 
 ## What is Project Voyager
 - Project Voyager is a project which get the Bang1338's message and read it without publish it to Twitter or something. 
