@@ -24,7 +24,7 @@ Quick note: This is NOT FROM REAL Voyager 1 (or 2). It's from me.
 - ~~[06/12/2022 Updated, from Comic Studio Discord](https://cdn.discordapp.com/attachments/945841557226020888/1049614641573150730/bangs.voyager_base64.txt) - Base64 (Bang1338 called for help - Hoang Vu problem)~~ - Corrupted
 - [06/12/2022 Updated 2, from Comic Studio Discord](https://cdn.discordapp.com/attachments/954077931360124939/1049616536714887209/bangs.voyager_hex.txt) - Hex (Bang1338 called for help - Hoang Vu problem)
 - [07/12/2022, from Comic Studio Discord](https://cdn.discordapp.com/attachments/1031628450928267397/1050062707468021830/bangs.voyager_binary.txt) - Binary (Su1c1d3)
-- [09/12/2022, from bang1338's private Discord server](https://cdn.discordapp.com/attachments/779629784509579288/1050401650654855259/bangs.voyager_hex.txt) - Hex (Death of bang1338's Generation)
+- [08/12/2022, from bang1338's private Discord server](https://cdn.discordapp.com/attachments/779629784509579288/1050401650654855259/bangs.voyager_hex.txt) - Hex (Death of bang1338's Generation)
 
 #### Data/Ref
 - [07/12/2022, from Comic Studio Discord](https://cdn.discordapp.com/attachments/1031628450928267397/1050064416244244601/bangs.voyager_base64.txt) - Base64 Image
@@ -46,6 +46,7 @@ Quick note: This is NOT FROM REAL Voyager 1 (or 2). It's from me.
 - 07/12/2022 [Prepare](https://cdn.discordapp.com/attachments/954077931360124939/1050070394834530496/message.txt) - RSA Encrypt
 - 08/12/2022 `71f4cb6de93b5af71b07874873A7UuvCofpcDnMBRPJE6E6DXz7cV2kcrTs` - Blowfish
 - 08/12/2022 `JUFTK ECGJV HWMUI PMBGZ` - Enigma
+- 08/12/2022 `Uhntl yba WetgTtnxLiqjp fbx lervjnt sf ayowe....` - Vigenère
 
 ## What is Project Voyager
 - Project Voyager is a project which get the Bang1338's message and read it without publish it to Twitter or something. 
