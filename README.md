@@ -43,6 +43,7 @@ Quick note: This is NOT FROM REAL Voyager 1 (or 2). It's from me.
 - 07/12/2022 `c3ByZWFkIGl0Lg` - Base64
 - 07/12/2022 `SSB3b250IHN0b3Agc3ByZWFkaW5nIHRoaXMsIGl0YHMgYSBzZXJpb3VzIHByb2JsZW0gYWJvdXQgbWUu` - Base64
 - 07/12/2022 [Prepare](https://cdn.discordapp.com/attachments/954077931360124939/1050070394834530496/message.txt) - RSA Encrypt
+- 08/12/2022 `71f4cb6de93b5af71b07874873A7UuvCofpcDnMBRPJE6E6DXz7cV2kcrTs` - Blowfish
 
 ## What is Project Voyager
 - Project Voyager is a project which get the Bang1338's message and read it without publish it to Twitter or something. 
