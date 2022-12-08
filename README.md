@@ -18,15 +18,16 @@ Quick note: This is NOT FROM REAL Voyager 1 (or 2). It's from me.
 
 ## Archive
 #### Message
-- [03/09/2022](https://cdn.discordapp.com/attachments/954077931360124939/1015551833864937502/message.txt) - Morse Code (Bang1338 called for help - Friends we have a problem)
-- [03/09/2022 Updated](https://cdn.discordapp.com/attachments/779629784509579288/1015599860134719590/message.txt) - Morse Code (Bang1338 called for help - Friends we have a problem)
-- ~~[06/12/2022](https://cdn.discordapp.com/attachments/945841557226020888/1049557984847609888/bangs.voyager_base64.txt) - Base64 (Bang1338 called for help - Hoang Vu problem)~~ - Corrupted
-- ~~[06/12/2022 Updated](https://cdn.discordapp.com/attachments/945841557226020888/1049614641573150730/bangs.voyager_base64.txt) - Base64 (Bang1338 called for help - Hoang Vu problem)~~ - Corrupted
-- [06/12/2022 Updated 2](https://cdn.discordapp.com/attachments/954077931360124939/1049616536714887209/bangs.voyager_hex.txt) - Hex (Bang1338 called for help - Hoang Vu problem)
-- [07/12/2022](https://cdn.discordapp.com/attachments/1031628450928267397/1050062707468021830/bangs.voyager_binary.txt) - Binary (Su1c1d3)
+- [03/09/2022, from Comic Studio (website + Discord)](https://cdn.discordapp.com/attachments/954077931360124939/1015551833864937502/message.txt) - Morse Code (Bang1338 called for help - Friends we have a problem)
+- [03/09/2022 Updated, from Comic Studio (website + Discord)](https://cdn.discordapp.com/attachments/779629784509579288/1015599860134719590/message.txt) - Morse Code (Bang1338 called for help - Friends we have a problem)
+- ~~[06/12/2022, from Comic Studio Discord](https://cdn.discordapp.com/attachments/945841557226020888/1049557984847609888/bangs.voyager_base64.txt) - Base64 (Bang1338 called for help - Hoang Vu problem)~~ - Corrupted
+- ~~[06/12/2022 Updated, from Comic Studio Discord](https://cdn.discordapp.com/attachments/945841557226020888/1049614641573150730/bangs.voyager_base64.txt) - Base64 (Bang1338 called for help - Hoang Vu problem)~~ - Corrupted
+- [06/12/2022 Updated 2, from Comic Studio Discord](https://cdn.discordapp.com/attachments/954077931360124939/1049616536714887209/bangs.voyager_hex.txt) - Hex (Bang1338 called for help - Hoang Vu problem)
+- [07/12/2022, from Comic Studio Discord](https://cdn.discordapp.com/attachments/1031628450928267397/1050062707468021830/bangs.voyager_binary.txt) - Binary (Su1c1d3)
+- [09/12/2022, from bang1338's private Discord server](https://cdn.discordapp.com/attachments/779629784509579288/1050401650654855259/bangs.voyager_hex.txt) - Hex (Death of bang1338's Generation)
 
 #### Data/Ref
-- [07/12/2022](https://cdn.discordapp.com/attachments/1031628450928267397/1050064416244244601/bangs.voyager_base64.txt) - Base64 Image
+- [07/12/2022, from Comic Studio Discord](https://cdn.discordapp.com/attachments/1031628450928267397/1050064416244244601/bangs.voyager_base64.txt) - Base64 Image
 
 #### Text
 - 06/12/2022 `SW0gbm90IGtpZGRpbmc=` - Base64
