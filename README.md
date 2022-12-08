@@ -44,6 +44,7 @@ Quick note: This is NOT FROM REAL Voyager 1 (or 2). It's from me.
 - 07/12/2022 `SSB3b250IHN0b3Agc3ByZWFkaW5nIHRoaXMsIGl0YHMgYSBzZXJpb3VzIHByb2JsZW0gYWJvdXQgbWUu` - Base64
 - 07/12/2022 [Prepare](https://cdn.discordapp.com/attachments/954077931360124939/1050070394834530496/message.txt) - RSA Encrypt
 - 08/12/2022 `71f4cb6de93b5af71b07874873A7UuvCofpcDnMBRPJE6E6DXz7cV2kcrTs` - Blowfish
+- 08/12/2022 `JUFTK ECGJV HWMUI PMBGZ` - Enigma
 
 ## What is Project Voyager
 - Project Voyager is a project which get the Bang1338's message and read it without publish it to Twitter or something. 
@@ -51,11 +52,11 @@ Quick note: This is NOT FROM REAL Voyager 1 (or 2). It's from me.
 - Most of the message are encoded. (Voyager 1 is different, it's send 1 and 0)
 - Some of them is encoded with some algo like Base64, A1Z26, Hex,...
 - Hardcoded message are encoded/hashed with MD5, SHA256.
-- If message encrypted with AES, DES, PGP, RC2, RSA, SM4, LS47, Blowfish, Triple DES, CypherSaber2 or Custom, DM me on Discord: Bang1338#5701
+- If message encrypted with AES, DES, PGP, RC2, RSA, SM4, LS47, Blowfish, Triple DES, CypherSaber2, Enigma or Custom, DM me on Discord: Bang1338#5701
 
 ## How to decode
 - Recommend using [Cyberchef](https://gchq.github.io/CyberChef/) or some online service.
-- Get the txt file which Discord hosted.
+- Get the txt file which Discord hosted or right here
 - Check the encoded type: [Date] - [**Encoded type**] (Desc)
 - Decode it.
 
