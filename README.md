@@ -27,7 +27,7 @@ Quick note: This is NOT FROM REAL Voyager 1 (or 2). It's from me.
 - [08/12/2022, from bang1338's private Discord server](https://cdn.discordapp.com/attachments/779629784509579288/1050401650654855259/bangs.voyager_hex.txt) - Hex - Death of bang1338's Generation
 
 #### Message (2023)
-- 28/12/2023, from bang1338's private Discord server and Comic Studio (soon) - Hex, Base64 - The Cherries Impact
+- [28/12/2023, from ~~bang1338's private Discord server~~ and Comic Studio Discord server](https://cdn.discordapp.com/attachments/945841557226020888/1189943910978564106/bang-voyager-281223.txt) - ~~Hex, Base64~~ RAW - The Cherries Impact
 
 #### Data/Ref (2022)
 - [07/12/2022, from Comic Studio Discord](https://cdn.discordapp.com/attachments/1031628450928267397/1050064416244244601/bangs.voyager_base64.txt) - Base64 Image
