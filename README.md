@@ -56,7 +56,7 @@ Quick note: This is NOT FROM REAL Voyager 1 (or 2). It's from me.
 - Mostly Bang's message are about venting.
 - Most of the message are encoded. (Voyager 1 is different, it's send 1 and 0)
 - Some of them is encoded with some algo like Base64, A1Z26, Hex,...
-- Hardcoded message are encoded/hashed with MD5, SHA256.
+- ~~Hardcoded message are encoded/hashed with MD5, SHA256.~~
 - ~~If message encrypted with AES, DES, PGP, RC2, RSA, SM4, LS47, Blowfish, Triple DES, CypherSaber2, Enigma or Custom, DM me on Discord: Bang1338#5701~~
 
 ## How to decode
