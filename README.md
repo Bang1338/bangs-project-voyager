@@ -27,7 +27,8 @@ Quick note: This is NOT FROM REAL Voyager 1 (or 2). It's from me.
 - [08/12/2022, from bang1338's private Discord server](https://cdn.discordapp.com/attachments/779629784509579288/1050401650654855259/bangs.voyager_hex.txt) - Hex - Death of bang1338's Generation
 
 #### Message (2023)
-- [28/12/2023, from ~~bang1338's private Discord server~~ and Comic Studio Discord server](https://cdn.discordapp.com/attachments/945841557226020888/1189943910978564106/bang-voyager-281223.txt) - ~~Hex, Base64~~ RAW - The Cherries Impact
+- [28/12/2023, from ~~bang1338's private Discord server and~~ Comic Studio Discord server](https://cdn.discordapp.com/attachments/945841557226020888/1189943910978564106/bang-voyager-281223.txt) - ~~Hex, Base64~~ RAW - The Cherries Impact
+- [31/12/2023, from Comic Studio Discord server](https://cdn.discordapp.com/attachments/945841557226020888/1190826709650513920/bang-voyager-311223.txt) - RAW - To quickhand people.
 
 #### Data/Ref (2022)
 - [07/12/2022, from Comic Studio Discord](https://cdn.discordapp.com/attachments/1031628450928267397/1050064416244244601/bangs.voyager_base64.txt) - Base64 Image
@@ -55,6 +56,7 @@ Quick note: This is NOT FROM REAL Voyager 1 (or 2). It's from me.
 - Project Voyager is a project which get the Bang1338's message and read it without publish it to Twitter or something. 
 - Mostly Bang's message are about venting.
 - Most of the message are encoded. (Voyager 1 is different, it's send 1 and 0)
+- RAW mean it's unencrypted. So you can read it anytime.
 - Some of them is encoded with some algo like Base64, A1Z26, Hex,...
 - ~~Hardcoded message are encoded/hashed with MD5, SHA256.~~
 - ~~If message encrypted with AES, DES, PGP, RC2, RSA, SM4, LS47, Blowfish, Triple DES, CypherSaber2, Enigma or Custom, DM me on Discord: Bang1338#5701~~
